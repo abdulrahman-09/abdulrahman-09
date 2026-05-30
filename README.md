@@ -28,8 +28,8 @@ I build containerized RESTful APIs with clean architecture, solid security, and 
 ## Connect
 
 - **Email:** abdulrahman.mujahid09@gmail.com  
-- **LinkedIn:** [abdalrhmanmogahed](https://linkedin.com/in/abdalrhmanmogahed)  
-- **LeetCode:** [abdalrhman_mogahed](https://leetcode.com/abdalrhman_mogahed)  
+- **LinkedIn:** [abdulrahman-mujahid](https://linkedin.com/in/abdulrahman-mujahid)  
+- **LeetCode:** [abdulrahman-mujahid](https://leetcode.com/abdulrahman-mujahid)  
 - **Codeforces:** [abdalrhmanmogahed002](https://codeforces.com/profile/abdalrhmanmogahed002)
 
 ---
