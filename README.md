@@ -10,7 +10,7 @@ I build containerized RESTful APIs with clean architecture, solid security, and 
 - B.Sc. in Computer Science, with a competitive programming background (ACM ICPC)
 - Specializing in backend systems: REST APIs, JWT & OAuth2 security, relational databases
 - Currently building **Trackify** — Task management REST API with Spring Boot, PostgreSQL, Docker, Spring Security, JWT, OAuth2
-- Learning: Microservices, Kubernetes, Apache Kafka, Redis
+- Learning: Microservices, Kubernetes, Redis, MongoDB
 
 ---
 
@@ -19,7 +19,7 @@ I build containerized RESTful APIs with clean architecture, solid security, and 
 **Languages:** Java, C/C++, Python  
 **Frameworks:** Spring Boot, Spring Security, Spring Data JPA, Hibernate  
 **Databases:** PostgreSQL, MySQL, Redis  
-**DevOps & Tools:** Docker, Linux, Git, Maven, Flyway  
+**DevOps & Tools:** Docker, Apache Kafka, Linux, Git, Maven, Flyway
 **Testing:** JUnit 5, Mockito  
 **Other:** REST API Design, JWT, OAuth2, OpenAPI / Swagger
 
@@ -34,4 +34,4 @@ I build containerized RESTful APIs with clean architecture, solid security, and 
 
 ---
 
-Last Edited on: 30/5/2026
+Last Edited on: 23/6/2026
