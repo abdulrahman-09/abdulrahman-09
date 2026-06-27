@@ -16,13 +16,13 @@ I build containerized RESTful APIs with clean architecture, solid security, and 
 
 ## Tech Stack
 
-**Languages:** Java, C/C++, Python  
-**Frameworks:** Spring Boot, Spring Security, Spring Data JPA, Hibernate    
-**Databases:** PostgreSQL, MySQL, Redis 
-**Messaging:** Apache Kafka 
-**DevOps & Tools:** Docker, Linux, Git, Maven, Flyway   
-**Testing:** JUnit 5, Mockito, H2   
-**Other:** REST API Design, JWT, OAuth2, OpenAPI / Swagger  
+**Languages:** Java, C/C++, Python<br>
+**Frameworks:** Spring Boot, Spring Security, Spring Data JPA, Hibernate<br>
+**Databases:** PostgreSQL, MySQL, Redis<br>
+**Messaging:** Apache Kafka<br>
+**DevOps & Tools:** Docker, Linux, Git, Maven, Flyway<br>
+**Testing:** JUnit 5, Mockito, H2<br>
+**Other:** REST API Design, JWT, OAuth2, OpenAPI / Swagger
 
 ---
 
