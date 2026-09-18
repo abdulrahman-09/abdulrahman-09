@@ -36,5 +36,10 @@ I build secure, well-tested REST APIs and Kafka-based async pipelines, with a gr
 - **Codeforces:** [abdalrhmanmogahed002](https://codeforces.com/profile/abdalrhmanmogahed002)
 
 ---
+## Resume
 
-Last Edited on: 22/8/2026
+**Take a look at my resume [here](https://drive.google.com/file/d/1P4_4Q2t8cffzTgAKOxQMBBIQHlxnB_Um/view?usp=sharing)**
+
+---
+
+Last Edited on: 18/9/2026
