@@ -17,13 +17,13 @@ I build secure, well-tested REST APIs and Kafka-based async pipelines, with a gr
 
 ## Tech Stack
 
-**Languages:** Java, Python, C/C++, C#, SQL<br>
-**Frameworks:** Spring Boot, Spring Security, Spring Data JPA, Spring AI, Hibernate<br>
+**Languages:** Java, Python, C/C++, C#, SQL, Typescript<br>
+**Frameworks:** Spring Boot, Spring Security, Spring Data JPA, Spring AI, Hibernate, NestJS (familiar)<br>
 **Messaging & Databases:** Apache Kafka, PostgreSQL, MySQL, MongoDB, Redis<br>
 **DevOps & Tools:** Docker, Linux, Git, Maven, Flyway, GitHub Actions (Familiar)<br>
 **Testing:** JUnit 5, Mockito, H2<br>
 **API & Security:** REST API Design, JWT, OAuth2, Rate Limiting, OpenAPI/Swagger<br>
-**Architecture:** Microservices, Event-Driven Architecture, SOLID Principles<br>
+**Architecture:** Microservices, Event-Driven Architecture, SOLID Principles, OOP<br>
 **Cloud (Familiar):** AWS
 
 ---
